@@ -1,5 +1,6 @@
-### Hi there 👋
+### About me: 👋
 
+Hello everyone, I'm Davide. I am a data scientist, aspiring ML engineer and former theoretical physicist. I currently work in the fraud intelligence team at Nexi (nexi.it), where I try to discover new fraudulent patterns in online transactions through SAS (and hopefully python in the future) processes.
 <!--
 **davidepittet/davidepittet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

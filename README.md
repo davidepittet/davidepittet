@@ -7,7 +7,7 @@ I am a python enthusiast with good knowledge in ML and deep learning, particular
 
 ### Where to find me: 📫
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/davide-pittet-37a5a8259/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/davide-pittet-37a5a8259/)
 
 
 <!--
